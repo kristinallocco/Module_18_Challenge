@@ -1,2 +1,2 @@
-# Module_18_Challenge
+# CryptoCurrencies
 17 Oct 2021
